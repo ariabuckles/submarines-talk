@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:forbes="http://forbes.com/rss/" version="2.0">
+  <channel>
+    <link>http://www.forbes.com/security/feed2/</link>
+    <title>Forbes - Security</title>
+    <description>Forbes - Security</description>
+    <item>
+      <link>http://www.forbes.com/sites/thomasbrewster/2015/07/14/tesla-zero-days/?ss=Security</link>
+      <title>Tesla Model S Zero-Day Flaws To Be Exposed By Hackers Next Month</title>
+      <description>Does your car have zero-days? The Tesla Model S does, according to researchers, who plan to reveal five previously-unknown, unpatched vulnerabilities at the Defcon hacker conference in August.</description>
+      <dc:creator>Thomas Fox-Brewster</dc:creator>
+      <guid>http://www.forbes.com/sites/thomasbrewster/2015/07/14/tesla-zero-days/</guid>
+      <pubDate>Tue, 14 Jul 2015 16:00:00 GMT</pubDate>
+      <dc:date>2015-07-14T12:00:00Z</dc:date>
+      <media:content url="http://specials-images.forbesimg.com/imageserve/470408048/640x0.jpg?fit=scale">
+        <media:thumbnail url="http://specials-images.forbesimg.com/imageserve/470408048/640x0.jpg?fit=scale"/>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.forbes.com/sites/homaycotte/2015/07/14/the-ultimate-sign-of-customer-loyalty-their-identity/?ss=Security</link>
+      <title>The Ultimate Sign of Customer Loyalty: Their Identity</title>
+      <description>When customers willingly hand over their data to you, it&amp;rsquo;s the ultimate sign of trust in your company and your intentions&amp;mdash;a true reflection of the belief that you have their best interests at heart. No pressure, but that gives your business a lot to live up to. If customer data is important to your growing business&amp;rsquo; success, it&amp;rsquo;s vital that you let customers know at every turn, in every way you can, that you fully understand that handing over their data is an act of trust, that you appreciate their faith in you, and that you will return their loyalty by being loyal in return. You&amp;rsquo;ve got to get the word out that you&amp;rsquo;ll treat their data like the valuable asset that it is: You won&amp;rsquo;t abuse it, and you&amp;rsquo;ll use it to deliver the best experience possible to them and to make that experience better all the time. And then keep that promise.</description>
+      <dc:creator>H.O. Maycotte</dc:creator>
+      <guid>http://www.forbes.com/sites/homaycotte/2015/07/14/the-ultimate-sign-of-customer-loyalty-their-identity/</guid>
+      <pubDate>Tue, 14 Jul 2015 16:00:00 GMT</pubDate>
+      <dc:date>2015-07-14T12:00:00Z</dc:date>
+    </item>
+    <item>
+      <link>http://www.forbes.com/sites/thomasbrewster/2015/07/14/child-surveillance-vulnerability/?ss=Security</link>
+      <title>This &apos;Anti-Radicalisation&apos; Tech Teachers Use To Monitor Kids Has A Shocking Security Hole</title>
+      <description>A researcher finds a vulnerability in Impero technology, used to monitor children and gather &quot;evidence&quot; of misconduct or of access to potentially radicalising tech. Impero isn&apos;t happy about the publicising of the flaw, however, and issues a legal threat in response.</description>
+      <dc:creator>Thomas Fox-Brewster</dc:creator>
+      <guid>http://www.forbes.com/sites/thomasbrewster/2015/07/14/child-surveillance-vulnerability/</guid>
+      <pubDate>Tue, 14 Jul 2015 14:28:00 GMT</pubDate>
+      <dc:date>2015-07-14T10:28:00Z</dc:date>
+      <media:content url="http://blogs-images.forbes.com/thomasbrewster/files/2015/07/Screen-Shot-2015-07-14-at-15.04.35-1940x1086.png">
+        <media:thumbnail url="http://blogs-images.forbes.com/thomasbrewster/files/2015/07/Screen-Shot-2015-07-14-at-15.04.35-1940x1086.png"/>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.forbes.com/pictures/eeed45edil/austin-mcchord-29/?ss=Security</link>
+      <title>2015 30 Under 30: Enterprise Technology</title>
+      <description></description>
+      <dc:creator>Robert Reiss</dc:creator>
+      <guid>http://www.forbes.com/pictures/eeed45edil/austin-mcchord-29/</guid>
+      <pubDate>Tue, 14 Jul 2015 13:08:00 GMT</pubDate>
+      <dc:date>2015-07-14T09:08:00Z</dc:date>
+      <media:content url="http://specials-images.forbesimg.com/imageserve/0b5895354f7adc916f7ffc35595c26c9/200x200.jpg">
+        <media:thumbnail url="http://specials-images.forbesimg.com/imageserve/0b5895354f7adc916f7ffc35595c26c9/200x200.jpg"/>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.forbes.com/sites/robertreiss/2015/07/14/according-to-dan-hesse-the-mobile-internet-changes-everything/?ss=Security</link>
+      <title>According To Dan Hesse, &apos;The Mobile Internet Changes Everything&apos;</title>
+      <description>The ubiquitous, mobile internet is changing business models, business risks and the nature of the company-customer relationship. I explore these subjects with Dan Hesse, an in-demand speaker on subjects such as the mobile internet&amp;rsquo;s transformation of society, cyber security, and customer service excellence. When Laptop magazine selected the &amp;ldquo;Most Influential People in Mobile Technology,&amp;rdquo; Dan Hesse was ranked first, and Steve Jobs second. He&amp;rsquo;s been credited with the saying that &amp;ldquo;great customer service costs less!&amp;rdquo; During his almost seven years as Sprint CEO, Sprint went from last to first place in industry customer satisfaction and was recognized 20&amp;nbsp;times by JD Power and Associates for customer experience excellence.</description>
+      <dc:creator>Robert Reiss</dc:creator>
+      <guid>http://www.forbes.com/sites/robertreiss/2015/07/14/according-to-dan-hesse-the-mobile-internet-changes-everything/</guid>
+      <pubDate>Tue, 14 Jul 2015 13:08:00 GMT</pubDate>
+      <dc:date>2015-07-14T09:08:00Z</dc:date>
+      <media:content url="http://specials-images.forbesimg.com/imageserve/0b5895354f7adc916f7ffc35595c26c9/200x200.jpg">
+        <media:thumbnail url="http://specials-images.forbesimg.com/imageserve/0b5895354f7adc916f7ffc35595c26c9/200x200.jpg"/>
+      </media:content>
+    </item>
+    <item>
+      <link>http://www.forbes.com/sites/frontline/2015/07/13/play-with-firewalls-and-get-burned-a-future-without-firewalls/?ss=Security</link>
+      <title>Play With Fire(walls) And Get Burned: A Future Without Firewalls</title>
+      <description>Plato tells of the ancient city of Atlantis, full of advanced technology and feats of engineering such as the world will never see again. The Atlanteans built great walls of exotic metals, striving to conquer the very ocean itself. But they were unable to stem the tide and the angry gods sank Atlantis and all its wonders to the bottom of the ocean.</description>
